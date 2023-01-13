@@ -2,7 +2,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Bishal Sarkar</h1>
 <h3 align="center">A passionate full-Stack web-developer on MERN Stack from India</h3> -->
 
-<img align="right" alt="coding" width="400" border-radius="10%" src="https://github.com/bishalsarkar77730/bishalsarkar77730/blob/main/hi.gif">
+<img align="right" alt="coding" width="400" border-radius="10" src="https://github.com/bishalsarkar77730/bishalsarkar77730/blob/main/hi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalsarkar77730&label=Profile%20views&color=0e75b6&style=flat" alt="bishalsarkar77730" /> </p>
 
