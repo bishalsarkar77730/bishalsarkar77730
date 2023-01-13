@@ -1,4 +1,4 @@
-![logo](https://github.com/bishalsarkar77730/bishalsarkar77730/blob/main/learn-grow-evolve.jpg)
+![logo](https://github.com/bishalsarkar77730/bishalsarkar77730/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Bishal Sarkar</h1>
 <h3 align="center">A passionate full-Stack web-developer on MERN Stack from India</h3>
 
