@@ -1,9 +1,8 @@
 ![logo](https://github.com/bishalsarkar77730/bishalsarkar77730/blob/main/github-header-image.png)
 <!-- <h1 align="center">Hi 👋, I'm Bishal Sarkar</h1> -->
 <br>
-<br>
 <h3 align="center">A passionate full-Stack web-developer on MERN Stack from India</h3>
-
+<br>
 <img align="right" alt="coding" width="400" src="https://github.com/bishalsarkar77730/bishalsarkar77730/blob/main/hi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalsarkar77730&label=Profile%20views&color=0e75b6&style=flat" alt="bishalsarkar77730" /> </p>
@@ -15,8 +14,6 @@
 - 💬 Ask me about **Mearn Projects** **DataScience Projects**
 
 - 📫 How to reach me **bishalsarkar.ml@gmail.com**
-<br>
-<br>
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="left">
